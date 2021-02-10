@@ -8,10 +8,10 @@ https://api.chucknorris.io
 
 
 Setup
-    1    (if not done yet) Download the scriptable app form AppStore
-    2    In Scriptable create a new script
-    3    Copy the code from script chucknorris_scriptable.js
-    4    Create a new widget on homescreen and select this script in scriptable
+- (if not done yet) Download the scriptable app form AppStore
+- In Scriptable create a new script
+- Copy the code from script chucknorris_scriptable.js
+- Create a new widget on homescreen and select this script in scriptable
 
 Usage
 
@@ -22,10 +22,10 @@ config.widgetFamily : 'small')
 
 
 Links
-    •    Chucknorris Free API : https://api.chucknorris.io
+- Chucknorris Free API : https://api.chucknorris.io
    
 Contribution
-If you have any ideas for extensions or changes please let me know.
+- If you have any ideas for extensions or changes please let me know.
 
 To do
-    1    Move "change display size" to parameters for easy change 
+- Move "change display size" to parameters for easy change 
