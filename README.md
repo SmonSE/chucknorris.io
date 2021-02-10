@@ -16,9 +16,9 @@ Setup
 Usage
 
 Change display size by comment out two of the following lines:
-config.widgetFamily : 'small')
-// config.widgetFamily : 'large')
-// config.widgetFamily : '')
+- config.widgetFamily : 'small')
+- // config.widgetFamily : 'large')
+- // config.widgetFamily : '')
 
 
 Links
